@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:rgb(204, 198, 198);
+}
+a{
+    text-decoration: none;
+    color: rgb(199, 60, 60);
+}
+
+a:hover{
+    font-style: italic;
+}
